@@ -9,7 +9,7 @@ object Learn_Scala
 
     def main(args:Array[String]):Int =
     {
-        print(profit(5), profit(10), profit(15), profit(20))
+        print(profit(5), profit(10), profit(15), profit(20));
 
         return 0;
     }
